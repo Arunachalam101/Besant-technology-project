@@ -34,7 +34,7 @@ jobs:
       # Run the reviewer from YOUR uploaded copy of this project.
       # Example: if your GitHub username is sam and your copy is called code-review-ai,
       # this line becomes:   - uses: sam/code-review-ai@main
-      - uses: Arunachalam101/Besant-technology-project@main    # <-- EDIT THIS
+      - uses: Arunachalam101/code-review-ai@main    # <-- EDIT THIS
         # OPTIONAL, EXPERIMENTAL: AI comments on top of the security review.
         # It is slower (it downloads a model) and has not been timed in CI.
         # To try it, remove the "# " at the start of the next two lines:
